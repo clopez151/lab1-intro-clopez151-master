@@ -1,0 +1,23 @@
+html{
+	background-color: #9EB5FF;
+}
+h1{ 
+	color: red;
+	text-align: center;
+	margin-top: 20px;
+}
+ul{
+	color: blue;
+	padding-left: 260px;
+	font-size: 25px;
+}
+img{
+	float: right;
+	margin-top: 100px;
+}
+.question{
+	color: green;
+	padding-top: 10px;
+	padding-left: 200px;
+	font-size: 30px;
+}
